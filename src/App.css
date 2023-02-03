@@ -1,0 +1,62 @@
+body {
+  background: url("https://source.unsplash.com/X-Bu9X6gok0/2400x1600") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 2rem;
+  }
+
+.links-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+ }
+
+.name {
+  background-color: blue;
+  color: #ccc;
+  text-shadow: 4px 4px 0 #444;
+  box-shadow: 2px 2px 0 #444;
+  font-size: 18px;
+ }
+
+.container {
+  width: 100%;
+  height: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  }
+
+ .links-container {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+   }
+
+  .name {
+    font-size: 65px;
+    }
+
+  .subtext {
+    font-size: 40px;
+    background-color: blue;
+    color: #ccc;
+    text-shadow: 1px 1px 0 #444;
+    box-shadow: 2px 2px 0 #444;
+
+    }
+
+   .subtext {
+     font-size: 40px;
+     background-color: blue;
+     color: #ccc;
+     text-shadow: 1px 1px 0 #444;
+     box-shadow: 2px 2px 0 #444;
+    }
